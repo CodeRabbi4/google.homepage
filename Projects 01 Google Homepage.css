@@ -174,4 +174,18 @@ section .footer .bang{
     section .main .searchbox .icon{
         width:88%;
     }
+    section header ul li button{
+        background-color:darkcyan;}
+
+        section .footer .bang{
+            color:burlywood
+        }
+
+        section .footer .row ul li a{
+            color:darkseagreen;
+        }
+
+        section header ul li a{
+            color:deepskyblue;
+        }
 }
